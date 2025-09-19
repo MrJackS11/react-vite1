@@ -16,5 +16,3 @@ function KardexEstudianteProps({nombre, carrera, materia, notas, edad}) {
 }
 
 export default KardexEstudianteProps;
-git init
-git commit -m "Primer commit de mi proyecto React"
